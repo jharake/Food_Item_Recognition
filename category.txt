@@ -1,0 +1,10 @@
+id	name
+1	bottle
+2	basket
+3	food
+4	cup
+5	jar
+6	can
+7	dish
+8	mug
+9	glass
